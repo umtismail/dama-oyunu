@@ -1,0 +1,38 @@
+c:\users\b2_1\documents\visual studio 2013\Projects\dama oyunu\dama oyunu\bin\Debug\dama oyunu.exe.config
+c:\users\b2_1\documents\visual studio 2013\Projects\dama oyunu\dama oyunu\obj\Debug\dama oyunu.csprojResolveAssemblyReference.cache
+c:\users\b2_1\documents\visual studio 2013\Projects\dama oyunu\dama oyunu\obj\Debug\dama_oyunu.Form1.resources
+c:\users\b2_1\documents\visual studio 2013\Projects\dama oyunu\dama oyunu\obj\Debug\dama_oyunu.Properties.Resources.resources
+c:\users\b2_1\documents\visual studio 2013\Projects\dama oyunu\dama oyunu\obj\Debug\dama oyunu.csproj.GenerateResource.Cache
+c:\users\b2_1\documents\visual studio 2013\Projects\dama oyunu\dama oyunu\obj\Debug\dama_oyunu.tahta.resources
+c:\users\b2_1\documents\visual studio 2013\Projects\dama oyunu\dama oyunu\obj\Debug\dama_oyunu.kazanan_kırmızı.resources
+c:\users\b2_1\documents\visual studio 2013\Projects\dama oyunu\dama oyunu\bin\Debug\dama oyunu.exe
+c:\users\b2_1\documents\visual studio 2013\Projects\dama oyunu\dama oyunu\bin\Debug\dama oyunu.pdb
+c:\users\b2_1\documents\visual studio 2013\Projects\dama oyunu\dama oyunu\obj\Debug\dama oyunu.exe
+c:\users\b2_1\documents\visual studio 2013\Projects\dama oyunu\dama oyunu\obj\Debug\dama oyunu.pdb
+c:\users\b2_1\documents\visual studio 2013\Projects\dama oyunu\dama oyunu\obj\Debug\dama_oyunu.kazanan_siyah.resources
+D:\11 sınıf prog\dama oyunu\dama oyunu\bin\Debug\dama oyunu.exe.config
+D:\11 sınıf prog\dama oyunu\dama oyunu\obj\Debug\dama oyunu.exe
+D:\11 sınıf prog\dama oyunu\dama oyunu\obj\Debug\dama oyunu.pdb
+D:\11 sınıf prog\dama oyunu\dama oyunu\bin\Debug\dama oyunu.exe
+D:\11 sınıf prog\dama oyunu\dama oyunu\bin\Debug\dama oyunu.pdb
+D:\11 sınıf prog\dama oyunu\dama oyunu\obj\Debug\dama oyunu.csprojResolveAssemblyReference.cache
+D:\11 sınıf prog\dama oyunu\dama oyunu\obj\Debug\dama_oyunu.Form1.resources
+D:\11 sınıf prog\dama oyunu\dama oyunu\obj\Debug\dama_oyunu.kazanan_kırmızı.resources
+D:\11 sınıf prog\dama oyunu\dama oyunu\obj\Debug\dama_oyunu.kazanan_siyah.resources
+D:\11 sınıf prog\dama oyunu\dama oyunu\obj\Debug\dama_oyunu.Properties.Resources.resources
+D:\11 sınıf prog\dama oyunu\dama oyunu\obj\Debug\dama_oyunu.tahta.resources
+D:\11 sınıf prog\dama oyunu\dama oyunu\obj\Debug\dama oyunu.csproj.GenerateResource.Cache
+E:\11 sınıf prog\dama oyunu\dama oyunu\bin\Debug\dama oyunu.exe.config
+E:\11 sınıf prog\dama oyunu\dama oyunu\bin\Debug\dama oyunu.exe
+E:\11 sınıf prog\dama oyunu\dama oyunu\bin\Debug\dama oyunu.pdb
+E:\11 sınıf prog\dama oyunu\dama oyunu\obj\Debug\dama oyunu.csprojResolveAssemblyReference.cache
+E:\11 sınıf prog\dama oyunu\dama oyunu\obj\Debug\dama_oyunu.Form1.resources
+E:\11 sınıf prog\dama oyunu\dama oyunu\obj\Debug\dama_oyunu.kazanan_kırmızı.resources
+E:\11 sınıf prog\dama oyunu\dama oyunu\obj\Debug\dama_oyunu.kazanan_siyah.resources
+E:\11 sınıf prog\dama oyunu\dama oyunu\obj\Debug\dama_oyunu.Properties.Resources.resources
+E:\11 sınıf prog\dama oyunu\dama oyunu\obj\Debug\dama_oyunu.tahta.resources
+E:\11 sınıf prog\dama oyunu\dama oyunu\obj\Debug\dama oyunu.csproj.GenerateResource.cache
+E:\11 sınıf prog\dama oyunu\dama oyunu\obj\Debug\dama oyunu.csproj.CoreCompileInputs.cache
+E:\11 sınıf prog\dama oyunu\dama oyunu\obj\Debug\dama oyunu.exe
+E:\11 sınıf prog\dama oyunu\dama oyunu\obj\Debug\dama oyunu.pdb
+D:\11 sınıf prog\dama oyunu\dama oyunu\obj\Debug\dama_oyunu.kazanan.resources
